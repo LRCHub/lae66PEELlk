@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mr. Chu",
+  "base_artist": "Apink",
+  "createdAt": "2026-02-28T13:25:57.186296Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Chu",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/01_Mr._Chu_Apink.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "Apink",
+      "has_synced": false,
+      "path": "select/02_Mr._Chu_(On_Stage)_Apink.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/03_Mr._Chu_(On_Stage)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (Inst.)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/04_Mr._Chu_(On_Stage)_(Inst.)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (Japanese Version)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/05_Mr._Chu_(On_Stage)_(Japanese_Version)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) -Japanese Ver.-",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/06_Mr._Chu_(On_Stage)_-Japanese_Ver.-_Apink.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Chu(On Stage) (Japanese Ver.)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/07_Mr._Chu(On_Stage)_(Japanese_Ver.)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Chu (Mr. Chu)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/08_Mr._Chu_(Mr._Chu)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Chu",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/09_Mr._Chu_Apink.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Chu (Japanese Ver.)",
+      "artist": "Apink",
+      "has_synced": false,
+      "path": "select/10_Mr._Chu_(Japanese_Ver.)_Apink.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr. Chu (Japanese Ver.)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/11_Mr._Chu_(Japanese_Ver.)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/12_Mr._Chu_(On_Stage)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Mr. Chu~♥",
+      "artist": "Dal★Shabet",
+      "has_synced": false,
+      "path": "select/13_Hey_Mr._Chu~♥_Dal★Shabet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mr. Chu (On Stage) (Mr. Chu (On Stage))",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/14_Mr._Chu_(On_Stage)_(Mr._Chu_(On_Stage))_Apink.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mr. Chu",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/15_Mr._Chu_Apink.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr. Chu",
+      "artist": "Apink",
+      "has_synced": false,
+      "path": "select/pl_01_Mr._Chu_Apink.txt"
+    }
+  ]
+}
